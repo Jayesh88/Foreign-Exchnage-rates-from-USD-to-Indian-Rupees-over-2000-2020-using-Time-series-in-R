@@ -1,0 +1,1 @@
+# Foreign-Exchnage-rates-from-USD-to-Indian-Rupees-over-2000-2020-using-Time-series-in-R
